@@ -1,0 +1,25 @@
+# Steam Group Based Clan System*
+## About
+This is designed to be a utility system for using [Steam groups][sgroups] as
+"clans" on a [Garry's mod][gmod] server, especially on roleplay gamemodes.
+
+Some assembly required: This is only a library - not a gamemode
+implementation. You will need a knowledge of Lua in order to use it.
+
+Please read all [documentation][docs] before raising an issue. Most of the
+time I will not be able to help with gamemode-specific problems.
+
+## Setup
+TODO ETC
+
+## Changelog
+* __0.0.1__
+  - Hello World
+
+## Links
+* [Steam Workshop][workshop]
+
+[sgroups]:  https://support.steampowered.com/kb_article.php?ref=8882-bmxl-0801
+[gmod]:     https://gmod.facepunch.com/
+[docs]:     https://github.com/Lexicality/steam-group-clans/wiki
+[workshop]: #TODO

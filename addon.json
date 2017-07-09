@@ -1,0 +1,19 @@
+{
+	"title"   : "Steam Group Clans",
+	"author"  : "Lex Robinson",
+	"contact" : "lexi@lexi.org.uk",
+	"updated" : "Jul '17",
+	"license" : "Apache Version 2",
+	"type"    : "ServerContent",
+	"tags"    : [],
+	"ignore"  :
+	[
+		"LICENSE",
+		"*.mkdn",
+		".git*",
+		".vscode",
+		"*.jpg",
+		"*.psd",
+		"*.png"
+	]
+}
