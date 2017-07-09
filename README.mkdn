@@ -9,6 +9,7 @@ implementation. You will need a knowledge of Lua in order to use it.
 Please read all [documentation][docs] before raising an issue. Most of the
 time I will not be able to help with gamemode-specific problems.
 
+_(* Name subject to change - if you have a better idea please tell me!)_
 ## Setup
 TODO ETC
 
